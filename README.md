@@ -1,5 +1,5 @@
 # Data Analytics
-#### Technical Skills: Pithon, ...
+#### Technical Skills: Python, ...
 
 My portfolio includes the projects completed during the Higher Diploma in Science in Data Analytics for Business course.
 
