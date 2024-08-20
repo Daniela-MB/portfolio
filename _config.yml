@@ -1,5 +1,27 @@
 title: Daniela M. Barreto
-description:: Data Analytics
+description: Data Analytics
 logo: Image/Daniela_M_Barreto_circle.JPG
 show_download: true
 theme: jekyll-theme-minimal
+
+<div class="tabs">
+  <div class="tab-buttons">
+    <button class="tab-button active" data-target="tab1">Tab 1</button>
+    <button class="tab-button" data-target="tab2">Tab 2</button>
+    <button class="tab-button" data-target="tab3">Tab 3</button>
+  </div>
+  <div class="tab-content">
+    <div id="tab1" class="tab-pane active">
+      <h2>Content for Tab 1</h2>
+      <p>This is the content for the first tab.</p>
+    </div>
+    <div id="tab2" class="tab-pane">
+      <h2>Content for Tab 2</h2>
+      <p>This is the content for the second tab.</p>
+    </div>
+    <div id="tab3" class="tab-pane">
+      <h2>Content for Tab 3</h2>
+      <p>This is the content for the third tab.</p>
+    </div>
+  </div>
+</div>
