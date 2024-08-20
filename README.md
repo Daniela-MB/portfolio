@@ -11,18 +11,18 @@ I am a professional with a First-class Honours in Higher Diploma in Data Analyti
 - Strategic Thinking
 - Statistical Techniques
 
-### Education
-- Higher Diploma in Data Analytics for Business - CCT College Dublin
-- Data Analytics Professional Certificate - Google 
-- PhD in Science - UFSCar
-- Master in Ecology and Natural Research - UFSCar
-
 ### Projects
 My portfolio includes the projects completed during the Higher Diploma in Science in Data Analytics for Business course.
 - ddddd
 - ddddd
 - ddddd
 - ddddd
+  
+### Education
+- Higher Diploma in Data Analytics for Business - CCT College Dublin
+- Data Analytics Professional Certificate - Google 
+- PhD in Science - UFSCar
+- Master in Ecology and Natural Research - UFSCar
 
 ### Publications
 - ddddd
