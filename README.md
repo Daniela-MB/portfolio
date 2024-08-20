@@ -26,7 +26,7 @@ My portfolio includes the projects completed during the Higher Diploma in Scienc
 - Master in Ecology and Natural Research - UFSCar
 
 ### Publications
-- ddddd
+- [Photosynthesis-related responses of Chlorella sorokiniana (Trebouxiophyceae) to environmentally relevant concentrations of Cu nanoparticles](https://www.tandfonline.com/doi/full/10.1080/00318884.2023.2214777#:~:text=The%20results%20showed%20that%20cell%20viability%20and%20chlorophyll,efficiency%20with%20which%20C.%20sorokiniana%20used%20the%20light.)
 - ddddd
 - ddddd
 - ddddd
