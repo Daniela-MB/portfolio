@@ -1,0 +1,35 @@
+/* assets/css/style.css */
+.tabs {
+  margin: 20px 0;
+}
+
+.tab-buttons {
+  display: flex;
+}
+
+.tab-button {
+  background: #f1f1f1;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  flex: 1;
+  text-align: center;
+}
+
+.tab-button.active {
+  background: #ddd;
+  font-weight: bold;
+}
+
+.tab-content {
+  border-top: 1px solid #ddd;
+  padding: 20px;
+}
+
+.tab-pane {
+  display: none;
+}
+
+.tab-pane.active {
+  display: block;
+}
