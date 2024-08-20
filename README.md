@@ -13,10 +13,11 @@ I am a professional with a First-class Honours in Higher Diploma in Data Analyti
 
 ### Projects
 My portfolio includes the projects completed during the Higher Diploma in Science in Data Analytics for Business course.
-- ddddd
-- ddddd
-- ddddd
-- ddddd
+- Recommendation Systems (MLB): two lines resume
+- Dasboard (Data Vis): two lines resume
+- Time Series Analysis (MLB): two lines resume
+- Capstone Project (Strategic Thinking): two lines resume
+- More projects: two lines resume
   
 ### Education
 - Higher Diploma in Data Analytics for Business - CCT College Dublin
