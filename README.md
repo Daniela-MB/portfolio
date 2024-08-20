@@ -1,14 +1,20 @@
 # Data Analytics
 
-#### Technical Skills: Python, dddddd
+### Technical Skills 
+- 🐍 Python
+- 🔮 Machine Learning
+- 📈 Data Visualization
+- 👀 Data Preparation
+- 🧠 Strategic Thinking
+- 📊 Statistical Techniques
 
 My portfolio includes the projects completed during the Higher Diploma in Science in Data Analytics for Business course.
 
 ### Education
-- ddddd
-- ddddd
-- ddddd
-- ddddd
+- Higher Diploma in Data Analytics for Business - CCT College Dublin
+- Data Analytics Professional Certificate - Google 
+- PhD in Science - UFSCar
+- Master in Ecology and Natural Research - UFSCar
 
 ### Projects
 - ddddd
@@ -16,8 +22,11 @@ My portfolio includes the projects completed during the Higher Diploma in Scienc
 - ddddd
 - ddddd
 
-### Work Experience
+### Publications
 - ddddd
 - ddddd
 - ddddd
 - ddddd
+
+### Find me 🌎
+- [Linkedin](www.linkedin.com/in/danielambarreto) 
