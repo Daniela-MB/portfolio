@@ -27,9 +27,10 @@ My portfolio includes the projects completed during the Higher Diploma in Scienc
 
 ### Publications
 - [Photosynthesis-related responses of Chlorella sorokiniana (Trebouxiophyceae) to environmentally relevant concentrations of Cu nanoparticles](https://www.tandfonline.com/doi/full/10.1080/00318884.2023.2214777#:~:text=The%20results%20showed%20that%20cell%20viability%20and%20chlorophyll,efficiency%20with%20which%20C.%20sorokiniana%20used%20the%20light.)
-- ddddd
-- ddddd
-- ddddd
+- [Environmental concentrations of copper nanoparticles affect vital functions in Ankistrodesmus densus](https://www.sciencedirect.com/science/article/abs/pii/S0166445X20304690)
+- [Physiological responses of Chlorella sorokiniana to copper nanoparticles](https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.4332)
+- [Effects of Titanium Dioxide Nanoparticles in Different Metabolic Pathways in the Freshwater Microalga Chlorella sorokiniana (Trebouxiophyceae)](https://link.springer.com/article/10.1007/s11270-018-3705-5)
+- [Environmentally Relevant Concentrations of TiO2 Nanoparticles Affected Cell Viability and Photosynthetic Yield in the Chlorophyceae Scenedesmus bijugus](https://link.springer.com/article/10.1007/s11270-016-3139-x)
 
 ### Find me 🌎
 - [Linkedin](www.linkedin.com/in/danielambarreto) 
