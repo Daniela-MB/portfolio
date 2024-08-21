@@ -16,7 +16,7 @@ My portfolio includes the projects completed during the Higher Diploma in Scienc
 - [Recommendation Systems (MLB)](https://github.com/Daniela-MB/integrated-ca2-dvt-and-mlb-DanielaBarreto2023278.git): two lines resume
 
 - Dasboard (Data Vis):
-  Two lines resume
+    Two lines resume
 
 - Time Series Analysis (MLB): two lines resume
 
