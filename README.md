@@ -13,10 +13,10 @@ I am a professional with a First-class Honours in Higher Diploma in Data Analyti
 
 ### Projects
 My portfolio includes the projects completed during the Higher Diploma in Science in Data Analytics for Business course.
-- [Recommendation Systems (MLB)](https://github.com/Daniela-MB/integrated-ca2-dvt-and-mlb-DanielaBarreto2023278.git): two lines resume
+- [Recommendation Systems](https://github.com/Daniela-MB/Recommendation_systems_and_interactive_dashboard.git) and [Interactive Dashboard](https://dashboardanimepy-qy2t3nfjq3g2hc6pnylf5g.streamlit.app/):
 
-- Dasboard (Data Vis):
-    Two lines resume
+      - two lines resume
+      - two lines resume
 
 - Time Series Analysis (MLB): two lines resume
 
