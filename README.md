@@ -20,7 +20,7 @@ and
   - Implemented Content-Based Filtering and Collaborative Filtering algorithms on an anime streaming platform to enhance user engagement by personalizing content recommendations.
   - Achieved relatively low RMSE values (0.40 and 0.74) indicate that the predictions were fairly accurate.
 
-- <a href="https://">Market Basket Analysis</a>
+- <a href="https://github.com/Daniela-MB/Market_basket_analysis.git">Market Basket Analysis</a>
 
   - Apriori and FP-Growth algorithms identified frequent itemsets and generated association rules, guiding improvements in store layouts, website design, and marketing strategies, including bundled offerings.
   - The speed test results showed that the FP-Growth algorithm was 2.12 times faster than the Apriori algorithm.
