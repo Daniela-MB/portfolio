@@ -14,16 +14,26 @@ I am a professional with a First-class Honours in Higher Diploma in Data Analyti
 ### Projects
 My portfolio includes the projects completed during the Higher Diploma in Science in Data Analytics for Business course.
 - <a href="https://github.com/Daniela-MB/Recommendation_systems_and_interactive_dashboard.git" target="_blank">Recommendation Systems</a>
- and [Interactive Dashboard](https://dashboardanimepy-qy2t3nfjq3g2hc6pnylf5g.streamlit.app/):
+and 
+<a href="https://dashboardanimepy-qy2t3nfjq3g2hc6pnylf5g.streamlit.app/" target="_blank">Interactive Dashboard</a>
 
   - two lines resume
   - two lines resume
 
-- Time Series Analysis (MLB): two lines resume
+- Time Series Analysis (MLB)
 
-- Capstone Project (Strategic Thinking): two lines resume
+  - two lines resume
+  - two lines resume
+
+- Capstone Project (Strategic Thinking)
+
+  - two lines resume
+  - two lines resume
 
 - More projects: two lines resume
+
+  - two lines resume
+  - two lines resume
   
 ### Education
 - Higher Diploma in Data Analytics for Business - CCT College Dublin
