@@ -17,9 +17,14 @@ My portfolio includes the projects completed during the Higher Diploma in Scienc
 and 
 <a href="https://dashboardanimepy-qy2t3nfjq3g2hc6pnylf5g.streamlit.app/" target="_blank">Interactive Dashboard</a>
 
-  - two lines resume
-  - two lines resume
+  - Implemented Content-Based Filtering and Collaborative Filtering algorithms on an anime streaming platform to enhance user engagement by personalizing content recommendations.
+  - Achieved relatively low RMSE values (0.40 and 0.74) indicate that the predictions were fairly accurate.
 
+- <a href="https://">Market Basket Analysis</a>
+
+  - Apriori and FP-Growth algorithms identified frequent itemsets and generated association rules, guiding improvements in store layouts, website design, and marketing strategies, including bundled offerings.
+  - The speed test results showed that the FP-Growth algorithm was 2.12 times faster than the Apriori algorithm.
+    
 - Time Series Analysis (MLB)
 
   - two lines resume
