@@ -51,11 +51,11 @@ and
 
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166445X20304690" target="_blank">Environmental concentrations of copper nanoparticles affect vital functions in Ankistrodesmus densus</a>
 
-- [Physiological responses of Chlorella sorokiniana to copper nanoparticles](https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.4332)
+- <a href="https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.4332" target="_blank">Physiological responses of Chlorella sorokiniana to copper nanoparticles</a>
 
-- [Effects of Titanium Dioxide Nanoparticles in Different Metabolic Pathways in the Freshwater Microalga Chlorella sorokiniana (Trebouxiophyceae)](https://link.springer.com/article/10.1007/s11270-018-3705-5)
+- <a href="https://link.springer.com/article/10.1007/s11270-018-3705-5" target="_blank">Effects of Titanium Dioxide Nanoparticles in Different Metabolic Pathways in the Freshwater Microalga Chlorella sorokiniana (Trebouxiophyceae)</a>
 
-- [Environmentally Relevant Concentrations of TiO2 Nanoparticles Affected Cell Viability and Photosynthetic Yield in the Chlorophyceae Scenedesmus bijugus](https://link.springer.com/article/10.1007/s11270-016-3139-x)
+- <a href="https://link.springer.com/article/10.1007/s11270-016-3139-x" target="_blank">Environmentally Relevant Concentrations of TiO2 Nanoparticles Affected Cell Viability and Photosynthetic Yield in the Chlorophyceae Scenedesmus bijugus</a>
 
 ### Find me 🌎
-- [Linkedin](www.linkedin.com/in/danielambarreto) 
+- <a href="www.linkedin.com/in/danielambarreto" target="_blank">Linkedin</a>
