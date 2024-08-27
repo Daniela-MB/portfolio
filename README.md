@@ -29,10 +29,11 @@ and
 
   - The ARIMA model was used to forecast Coursera's stock prices, achieving a low RMSE (0.40) and explaining 88% of the data variability.
 
-- Capstone Project (Strategic Thinking)
+- <a href="https://github.com/Daniela-MB/Capstone_project.git" target="_blank">Capstone Project</a>
 
-  - two lines resume
-  - two lines resume
+  - Applied three tree-based machine learning models to estimate the material's ability to adsorb CO<sub>2</sub>.
+  - Achieved success criteria by exceeding the minimum recall and precision threshold of 0.80, optimizing for true positive instances.
+  - Utilized SMOTE, Stratified K-Fold, and Random Search to optimize hyperparameters, validate the model, and mitigate bias risk.
 
 - More projects: two lines resume
 
