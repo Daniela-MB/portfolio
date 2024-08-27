@@ -58,4 +58,4 @@ and
 - <a href="https://link.springer.com/article/10.1007/s11270-016-3139-x" target="_blank">Environmentally Relevant Concentrations of TiO2 Nanoparticles Affected Cell Viability and Photosynthetic Yield in the Chlorophyceae Scenedesmus bijugus</a>
 
 ### Find me 🌎
-- [Linkedin](www.linkedin.com/in/danielambarreto)
+- <a href="https://www.linkedin.com/in/danielambarreto" target="_blank">Linkedin</a>
