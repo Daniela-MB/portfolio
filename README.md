@@ -17,18 +17,17 @@ My portfolio includes the projects completed during the Higher Diploma in Scienc
 and 
 <a href="https://dashboardanimepy-qy2t3nfjq3g2hc6pnylf5g.streamlit.app/" target="_blank">Interactive Dashboard</a>
 
-  - Implemented Content-Based Filtering and Collaborative Filtering algorithms on an anime streaming platform to enhance user engagement by personalizing content recommendations.
+  - Implemented Content-Based Filtering and Collaborative Filtering algorithms on an anime streaming platform to enhance user engagement.
   - Achieved relatively low RMSE values (0.40 and 0.74) indicate that the predictions were fairly accurate.
 
 - <a href="https://github.com/Daniela-MB/Market_basket_analysis.git" target="_blank">Market Basket Analysis</a>
 
-  - Apriori and FP-Growth algorithms identified frequent itemsets and generated association rules, guiding improvements in store layouts, website design, and marketing strategies, including bundled offerings.
-  - The speed test results showed that the FP-Growth algorithm was 2.12 times faster than the Apriori algorithm.
+  - Apriori and FP-Growth algorithms identified frequent itemsets and generated association rules, guiding improvements in store layouts, websites, marketing, and bundling strategies.
+  - FP-Growth algorithm was 1.75 times faster than the Apriori algorithm.
     
-- Time Series Analysis (MLB)
+- <a href="https://github.com/Daniela-MB/Time_series_analysis.git" target="_blank">Time Series Analysis</a>
 
-  - two lines resume
-  - two lines resume
+  - The ARIMA model was used to forecast Coursera's stock prices, achieving a low RMSE (0.40) and explaining 88% of the data variability.
 
 - Capstone Project (Strategic Thinking)
 
