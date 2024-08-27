@@ -47,9 +47,9 @@ and
 - Master in Ecology and Natural Research - UFSCar
 
 ### Publications
-- [Photosynthesis-related responses of Chlorella sorokiniana (Trebouxiophyceae) to environmentally relevant concentrations of Cu nanoparticles](https://www.tandfonline.com/doi/full/10.1080/00318884.2023.2214777#:~:text=The%20results%20showed%20that%20cell%20viability%20and%20chlorophyll,efficiency%20with%20which%20C.%20sorokiniana%20used%20the%20light.)
+- <a href="https://www.tandfonline.com/doi/full/10.1080/00318884.2023.2214777#:~:text=The%20results%20showed%20that%20cell%20viability%20and%20chlorophyll,efficiency%20with%20which%20C.%20sorokiniana%20used%20the%20light." target="_blank">Photosynthesis-related responses of Chlorella sorokiniana (Trebouxiophyceae) to environmentally relevant concentrations of Cu nanoparticles</a>
 
-- [Environmental concentrations of copper nanoparticles affect vital functions in Ankistrodesmus densus](https://www.sciencedirect.com/science/article/abs/pii/S0166445X20304690)
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166445X20304690" target="_blank">Environmental concentrations of copper nanoparticles affect vital functions in Ankistrodesmus densus</a>
 
 - [Physiological responses of Chlorella sorokiniana to copper nanoparticles](https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.4332)
 
