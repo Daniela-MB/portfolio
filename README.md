@@ -35,7 +35,7 @@ and
   - Achieved success criteria by exceeding the minimum recall and precision threshold of 0.80, optimizing for true positive instances.
   - Utilized SMOTE, Stratified K-Fold, and Random Search to optimize hyperparameters, validate the model, and mitigate bias risk.
 
-- **More projects**
+- *More projects*
 
   - two lines resume
   - two lines resume
