@@ -37,7 +37,7 @@ and
 
 - *More projects*
 
-  - two lines resume
+  - <a href="[https://github.com/Daniela-MB/Market_basket_analysis.git](https://github.com/Daniela-MB/Random_forest_and_ANN_and_PCA.git)" target="_blank">Random Forest | Artificial Neural Networks | Principal Component Analysis</a>
   - two lines resume
   
 ### Education
