@@ -35,7 +35,7 @@ and
   - Achieved success criteria by exceeding the minimum recall and precision threshold of 0.80, optimizing for true positive instances.
   - Utilized SMOTE, Stratified K-Fold, and Random Search to optimize hyperparameters, validate the model, and mitigate bias risk.
 
-- More projects: two lines resume
+- **More projects**
 
   - two lines resume
   - two lines resume
@@ -55,7 +55,7 @@ and
 
 - <a href="https://link.springer.com/article/10.1007/s11270-018-3705-5" target="_blank">Effects of Titanium Dioxide Nanoparticles in Different Metabolic Pathways in the Freshwater Microalga Chlorella sorokiniana (Trebouxiophyceae)</a>
 
-- <a href="https://link.springer.com/article/10.1007/s11270-016-3139-x" target="_blank">Environmentally Relevant Concentrations of TiO2 Nanoparticles Affected Cell Viability and Photosynthetic Yield in the Chlorophyceae Scenedesmus bijugus</a>
+- <a href="https://link.springer.com/article/10.1007/s11270-016-3139-x" target="_blank">Environmentally Relevant Concentrations of TiO<sub>2</sub> Nanoparticles Affected Cell Viability and Photosynthetic Yield in the Chlorophyceae Scenedesmus bijugus</a>
 
 ### Find me 🌎
 - <a href="https://www.linkedin.com/in/danielambarreto" target="_blank">Linkedin</a>
