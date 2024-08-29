@@ -38,6 +38,7 @@ and
 - *More projects*
 
   - <a href="https://github.com/Daniela-MB/Random_forest_and_ANN_and_PCA.git" target="_blank">Random Forest | Artificial Neural Networks | PCA</a>
+  - <a href="https://www.kaggle.com/code/danielamariano/google-data-analytics-capstone-bellabeat" target="_blank">Excel | SQL | RStudio | Tableau</a>
   - <a href="https://github.com/Daniela-MB/Data_visualisation_video_games_analysis.git" target="_blank">Data Visualisation - Video Games Analysis</a>
   - <a href="https://github.com/Daniela-MB/Statistical_techniques.git" target="_blank">Statistical Techniques</a>
  
