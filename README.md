@@ -38,8 +38,9 @@ and
 - *More projects*
 
   - <a href="https://github.com/Daniela-MB/Random_forest_and_ANN_and_PCA.git" target="_blank">Random Forest | Artificial Neural Networks | PCA</a>
+  - <a href="https://github.com/Daniela-MB/Data_visualisation_video_games_analysis.git" target="_blank">Data Visualisation - Video Games Analysis</a>
   - <a href="https://github.com/Daniela-MB/Statistical_techniques.git" target="_blank">Statistical Techniques</a>
-  - ...
+ 
   
 ### Education
 - Higher Diploma in Data Analytics for Business - CCT College Dublin
