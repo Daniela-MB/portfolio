@@ -12,12 +12,12 @@ I am a professional with a First-class Honours in Higher Diploma in Data Analyti
 - Statistical Techniques
 
 ### Projects
-My portfolio includes the projects completed during the Higher Diploma in Science in Data Analytics for Business course.
+
 - <a href="https://github.com/Daniela-MB/Recommendation_systems_and_interactive_dashboard.git" target="_blank">Recommendation Systems</a>
 and 
 <a href="https://dashboardanimepy-qy2t3nfjq3g2hc6pnylf5g.streamlit.app/" target="_blank">Interactive Dashboard</a>
 
-  - Implemented Content-Based Filtering and Collaborative Filtering algorithms on an anime streaming platform to enhance user engagement.
+  - Implemented Content-Based Filtering and Collaborative Filtering algorithms on an anime streaming dataset to enhance user engagement.
   - Achieved relatively low RMSE values (0.40 and 0.74) indicate that the predictions were fairly accurate.
 
 - <a href="https://github.com/Daniela-MB/Market_basket_analysis.git" target="_blank">Market Basket Analysis</a>
@@ -38,8 +38,8 @@ and
 - *More projects*
 
   - <a href="https://github.com/Daniela-MB/Random_forest_and_ANN_and_PCA.git" target="_blank">Random Forest | Artificial Neural Networks | PCA</a>
-  - <a href="https://github.com/Daniela-MB/Data_visualisation_video_games_analysis.git" target="_blank">Data Visualisation - Video Games Analysis</a>
-  - <a href="https://www.kaggle.com/code/danielamariano/google-data-analytics-capstone-bellabeat" target="_blank">Excel | SQL | RStudio | Tableau</a>
+  - <a href="https://github.com/Daniela-MB/Data_visualisation_video_games_analysis.git" target="_blank">Data Visualisation Techniques - Video Games Analysis</a>
+  - <a href="https://www.kaggle.com/code/danielamariano/google-data-analytics-capstone-bellabeat" target="_blank">Excel | SQL | RStudio | Tableau - Bellabeat</a>
   - <a href="https://github.com/Daniela-MB/Statistical_techniques.git" target="_blank">Statistical Techniques</a>
  
   
