@@ -50,15 +50,15 @@ and
 - Master in Ecology and Natural Research - UFSCar
 
 ### Publications
-- <a href="https://www.tandfonline.com/doi/full/10.1080/00318884.2023.2214777#:~:text=The%20results%20showed%20that%20cell%20viability%20and%20chlorophyll,efficiency%20with%20which%20C.%20sorokiniana%20used%20the%20light." target="_blank">Photosynthesis-related responses of Chlorella sorokiniana (Trebouxiophyceae) to environmentally relevant concentrations of Cu nanoparticles</a>
+- <a href="https://www.tandfonline.com/doi/full/10.1080/00318884.2023.2214777#:~:text=The%20results%20showed%20that%20cell%20viability%20and%20chlorophyll,efficiency%20with%20which%20C.%20sorokiniana%20used%20the%20light." target="_blank">Photosynthesis-related responses of *Chlorella sorokiniana* (Trebouxiophyceae) to environmentally relevant concentrations of Cu nanoparticles</a>
 
-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166445X20304690" target="_blank">Environmental concentrations of copper nanoparticles affect vital functions in Ankistrodesmus densus</a>
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166445X20304690" target="_blank">Environmental concentrations of copper nanoparticles affect vital functions in *Ankistrodesmus densus*</a>
 
-- <a href="https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.4332" target="_blank">Physiological responses of Chlorella sorokiniana to copper nanoparticles</a>
+- <a href="https://setac.onlinelibrary.wiley.com/doi/10.1002/etc.4332" target="_blank">Physiological responses of *Chlorella sorokiniana* to copper nanoparticles</a>
 
-- <a href="https://link.springer.com/article/10.1007/s11270-018-3705-5" target="_blank">Effects of Titanium Dioxide Nanoparticles in Different Metabolic Pathways in the Freshwater Microalga Chlorella sorokiniana (Trebouxiophyceae)</a>
+- <a href="https://link.springer.com/article/10.1007/s11270-018-3705-5" target="_blank">Effects of Titanium Dioxide Nanoparticles in Different Metabolic Pathways in the Freshwater Microalga *Chlorella sorokiniana* (Trebouxiophyceae)</a>
 
-- <a href="https://link.springer.com/article/10.1007/s11270-016-3139-x" target="_blank">Environmentally Relevant Concentrations of TiO<sub>2</sub> Nanoparticles Affected Cell Viability and Photosynthetic Yield in the Chlorophyceae Scenedesmus bijugus</a>
+- <a href="https://link.springer.com/article/10.1007/s11270-016-3139-x" target="_blank">Environmentally Relevant Concentrations of TiO<sub>2</sub> Nanoparticles Affected Cell Viability and Photosynthetic Yield in the Chlorophyceae *Scenedesmus bijugus*</a>
 
 ### Find me 🌎
 - <a href="https://www.linkedin.com/in/danielambarreto" target="_blank">Linkedin</a>
